@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Binary Converter</string>
+    <string name="input_hint_text">Text Input</string>
+    <string name="input_hint_binary">Binary Input</string>
+    <string name="output_label_text">Text Output</string>
+    <string name="output_label_binary">Binary Output</string>
+    <string name="mode_toggle_on">Mode: To Char</string>
+    <string name="mode_toggle_off">Mode: To Binary</string>
+    <string name="convert">Convert</string>
+</resources>
