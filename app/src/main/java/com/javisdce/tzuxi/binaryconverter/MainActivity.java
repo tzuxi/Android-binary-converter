@@ -1,3 +1,6 @@
+/*
+ * Javis Development and Computer Engineering (c) , 2017, 2018. All rights reserved
+ */
 package com.javisdce.tzuxi.binaryconverter;
 
 import android.support.v7.app.AppCompatActivity;
